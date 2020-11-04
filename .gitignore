@@ -1,0 +1,7 @@
+# Project exclude paths
+/yes23-2-main/cancel/target/
+/yes23-2-main/delivery/target/
+/yes23-2-main/gateway/target/
+/yes23-2-main/mypage/target/
+/yes23-2-main/order/target/
+/yes23-2-main/pay/target/
